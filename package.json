@@ -1,0 +1,25 @@
+{
+  "name": "inttodate",
+  "version": "1.0.0",
+  "description": "Parse random integers into possible dates",
+  "main": "inttodate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deliaz/IntToDate.git"
+  },
+  "keywords": [
+    "date",
+    "dates",
+    "parse",
+    "integer"
+  ],
+  "author": "Deliaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deliaz/IntToDate/issues"
+  },
+  "homepage": "https://github.com/Deliaz/IntToDate#readme"
+}
